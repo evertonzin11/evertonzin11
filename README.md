@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=FF130F&width=435&lines=ol%C3%A1%2C+meu+nome+%C3%A9+Everton)](https://git.io/typing-svg)
+<h1 align="center"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=FF130F&width=435&lines=ol%C3%A1%2C+meu+nome+%C3%A9+Everton)](https://git.io/typing-svg)
 
 ###
 
