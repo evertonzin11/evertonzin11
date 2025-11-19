@@ -1,14 +1,11 @@
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R6dTBhczEwbzhxOHpnbW5wYmQxcnBpejhmNnp4cGprbjB2cWVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R6dTBhczEwbzhxOHpnbW5wYmQxcnBpejhmNnp4cGprbjB2cWVpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
 <h1 align="center">Bem-vindo ao meu perfil!</h1>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+meu+nome+e+Everton!;Moro+em+Cotia-SP;e+tenho+20+anos.)](https://git.io/typing-svg)
 
-<h3 align="center"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=FF130F&width=435&lines=ol%C3%A1%2C+meu+nome+%C3%A9+Everton)](https://git.io/typing-svg)</h3>
-
-###
 
 <h6 align="center">Sou estudante de Tecnologia da Informação na Faculdade Anhanguera. Atualmente estudo Java e Python, sempre focado em aprimorar minhas habilidades, escrever códigos melhores e aprofundar meu conhecimento em desenvolvimento. Estou em constante evolução, buscando aprender mais a cada projeto.</h6>
 
