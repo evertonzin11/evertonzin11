@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=F70000&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+meu+nome+e+Everton!;Moro+em+Cotia-SP;e+tenho+20+anos.)](https://git.io/typing-svg)
 
 
-<h6 align="center">Sou estudante de Tecnologia da Informação na Faculdade Anhanguera. Atualmente estudo Python, sempre focado em aprimorar minhas habilidades, escrever códigos melhores e aprofundar meu conhecimento em desenvolvimento. Estou em constante evolução, buscando aprender mais a cada projeto.</h6>
+<h6 align="center">Sou estudante de Tecnologia da Informação na Faculdade Anhanguera. Atualmente estou em Front-End Júnior, sempre focado em aprimorar minhas habilidades, escrever códigos melhores e aprofundar meu conhecimento em desenvolvimento. Estou em constante evolução, buscando aprender mais a cada projeto.</h6>
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
